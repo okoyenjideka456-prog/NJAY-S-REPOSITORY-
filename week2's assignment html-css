@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Courses - Digital Skills Academy</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="courses.html">Courses</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Our Courses</h1>
+    <section class="course-grid">
+      <article class="course-card">
+        <img src="images/webdev.jpg" alt="Web Development">
+        <h3>Web Development</h3>
+        <p>Build websites with HTML, CSS, and JavaScript.</p>
+      </article>
+      <article class="course-card">
+        <img src="images/graphics.jpg" alt="Graphic Design">
+        <h3>Graphic Design</h3>
+        <p>Create professional designs using modern tools.</p>
+      </article>
+      <article class="course-card">
+        <img src="images/data.jpg" alt="Data Analysis">
+        <h3>Data Analysis</h3>
+        <p>Learn to analyze and visualize data effectively.</p>
+      </article>
+      <article class="course-card">
+        <img src="images/marketing.jpg" alt="Digital Marketing">
+        <h3>Digital Marketing</h3>
+        <p>Master SEO, social media, and online campaigns.</p>
+      </article>
+      <article class="course-card">
+        <img src="images/cyber.jpg" alt="Cybersecurity">
+        <h3>Cybersecurity</h3>
+        <p>Protect systems and networks from cyber threats.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Digital Skills Academy</p>
+  </footer>
+</body>
+</html>
